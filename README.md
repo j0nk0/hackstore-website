@@ -1,6 +1,6 @@
-# The F-Droid Website
+# The HackStore Website
 
-This is the repository for the website at <https://f-droid.org>.  It
+This is the repository for the website at <https://hackstore.nethunter.com>.  It
 is based on Jekyll and you can find the development version
 [here](https://fdroid.gitlab.io/fdroid-website/).
 
